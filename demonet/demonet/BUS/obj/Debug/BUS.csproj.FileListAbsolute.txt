@@ -1,0 +1,18 @@
+D:\code C#\demonet\BUS\bin\Debug\BUS.dll
+D:\code C#\demonet\BUS\bin\Debug\BUS.pdb
+D:\code C#\demonet\BUS\bin\Debug\DAL.dll
+D:\code C#\demonet\BUS\bin\Debug\DAL.pdb
+D:\code C#\demonet\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\code C#\demonet\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\code C#\demonet\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\code C#\demonet\BUS\obj\Debug\BUS.dll
+D:\code C#\demonet\BUS\obj\Debug\BUS.pdb
+C:\Users\hungp\Desktop\demonet\demonet\BUS\bin\Debug\BUS.dll
+C:\Users\hungp\Desktop\demonet\demonet\BUS\bin\Debug\BUS.pdb
+C:\Users\hungp\Desktop\demonet\demonet\BUS\bin\Debug\DAL.dll
+C:\Users\hungp\Desktop\demonet\demonet\BUS\bin\Debug\DAL.pdb
+C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.dll
+C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,240 @@
+D:\code C#\demonet\demonet\bin\Debug\demonet.exe.config
+D:\code C#\demonet\demonet\bin\Debug\demonet.exe
+D:\code C#\demonet\demonet\bin\Debug\demonet.pdb
+D:\code C#\demonet\demonet\obj\Debug\demonet.csprojAssemblyReference.cache
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form1.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.Properties.Resources.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.csproj.GenerateResource.cache
+D:\code C#\demonet\demonet\obj\Debug\demonet.csproj.CoreCompileInputs.cache
+D:\code C#\demonet\demonet\obj\Debug\demonet.exe
+D:\code C#\demonet\demonet\obj\Debug\demonet.pdb
+D:\code C#\demonet\demonet\obj\Debug\demonet.menu.resources
+D:\code C#\demonet\demonet\bin\Debug\BUS.dll
+D:\code C#\demonet\demonet\bin\Debug\DAL.dll
+D:\code C#\demonet\demonet\bin\Debug\BUS.pdb
+D:\code C#\demonet\demonet\bin\Debug\DAL.pdb
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_CONGVIEC.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_DUAN.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.csproj.CopyComplete
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_DANHGIA.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_NHANVIEN.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_baocaotuan.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_THANHVIEN.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_BAOCAOTONGHOP.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.csproj.ResolveComReference.cache
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_xemduan.resources
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_xemcongviec.resources
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.Shared.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\code C#\demonet\demonet\bin\Debug\FlashControlV71.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\code C#\demonet\demonet\bin\Debug\ShockwaveFlashObjects.dll
+D:\code C#\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\code C#\demonet\demonet\bin\Debug\stdole.dll
+D:\code C#\demonet\demonet\obj\Debug\demonet.exe.config
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_inbaocaotuan.resources
+D:\code C#\demonet\demonet\obj\Debug\RdlCompile.cache
+D:\code C#\demonet\demonet\obj\Debug\RdlCompile.compiled
+D:\code C#\demonet\demonet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\code C#\demonet\demonet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\code C#\demonet\demonet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\code C#\demonet\demonet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\code C#\demonet\demonet\bin\Debug\EnvDTE.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\code C#\demonet\demonet\bin\Debug\EnvDTE80.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\code C#\demonet\demonet\bin\Debug\VSLangProj.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\code C#\demonet\demonet\bin\Debug\VSLangProj80.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\code C#\demonet\demonet\bin\Debug\Newtonsoft.Json.dll
+D:\code C#\demonet\demonet\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.MSXML.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.Build.Framework.dll
+D:\code C#\demonet\demonet\bin\Debug\VSLangProj2.dll
+D:\code C#\demonet\demonet\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\code C#\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code C#\demonet\demonet\bin\Debug\inbaocaotuan.rdlc
+D:\code C#\demonet\demonet\obj\Debug\demonet.Form_inbaocaotonghop.resources
+D:\code C#\demonet\demonet\bin\Debug\inbaocaotonghop.rdlc
+F:\code C#\demonet\demonet\bin\Debug\demonet.exe.config
+F:\code C#\demonet\demonet\obj\Debug\demonet.csproj.ResolveComReference.cache
+F:\code C#\demonet\demonet\obj\Debug\demonet.exe
+F:\code C#\demonet\demonet\obj\Debug\demonet.pdb
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\inbaocaotonghop.rdlc
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\inbaocaotuan.rdlc
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\demonet.exe.config
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\demonet.exe
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\demonet.pdb
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\BUS.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\DAL.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\EnvDTE.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\stdole.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\Microsoft.MSXML.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\BUS.pdb
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\DAL.pdb
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.csprojAssemblyReference.cache
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.csproj.ResolveComReference.cache
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form1.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_BAOCAOTONGHOP.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_baocaotuan.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_CONGVIEC.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_DANHGIA.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_DUAN.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_inbaocaotonghop.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_inbaocaotuan.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_NHANVIEN.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_THANHVIEN.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_xemcongviec.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Form_xemduan.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.menu.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.Properties.Resources.resources
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.csproj.GenerateResource.cache
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.csproj.CoreCompileInputs.cache
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.csproj.CopyComplete
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.exe
+C:\Users\hungp\Desktop\demonet\demonet\demonet\obj\Debug\demonet.pdb
