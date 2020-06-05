@@ -87,3 +87,10 @@ create table baocaotonghop
 	foreign key (mada) references duan(mada),
 	foreign key (matv) references thanhvien(matv)
 )
+
+INSERT INTO nhanvien (tennv, ngaysinh, sdt,diachi,chucvu,taikhoan,matkhau)
+VALUES ('nobita','2015-12-17','0987654321','ha noi','quan tri vien','admin','admin');
+INSERT INTO nhanvien (tennv, ngaysinh, sdt,diachi,chucvu,taikhoan,matkhau)
+VALUES ('xuka','1998-12-17','0987654321','ha noi','quan tri vien','nobita','admin');
+INSERT INTO nhanvien (tennv, ngaysinh, sdt,diachi,chucvu,taikhoan,matkhau)
+VALUES ('chaen','1999-12-17','0987654321','ha nam','quan tri vien','chaen','admin');

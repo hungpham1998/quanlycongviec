@@ -10,7 +10,7 @@ namespace DAL
 {
    public  class DBconnect
     {
-        private String connStr = "Data Source=DESKTOP-2EOLT06;Initial Catalog=quanlycongviec;Integrated Security=True";
+        private String connStr = @"Data Source=(local) ;Initial Catalog=quanlycongviec;Integrated Security=True";
         public SqlConnection conn = null;
         public DBconnect()
         {

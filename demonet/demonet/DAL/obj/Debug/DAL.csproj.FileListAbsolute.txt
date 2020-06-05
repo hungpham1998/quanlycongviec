@@ -10,3 +10,9 @@ C:\Users\hungp\Desktop\demonet\demonet\DAL\obj\Debug\DAL.csprojAssemblyReference
 C:\Users\hungp\Desktop\demonet\demonet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 C:\Users\hungp\Desktop\demonet\demonet\DAL\obj\Debug\DAL.dll
 C:\Users\hungp\Desktop\demonet\demonet\DAL\obj\Debug\DAL.pdb
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\DAL\bin\Debug\DAL.dll
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\DAL\bin\Debug\DAL.pdb
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\DAL\obj\Debug\DAL.dll
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\DAL\obj\Debug\DAL.pdb

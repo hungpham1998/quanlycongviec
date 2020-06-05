@@ -16,3 +16,12 @@ C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.csproj.CoreCompileInput
 C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.dll
 C:\Users\hungp\Desktop\demonet\demonet\BUS\obj\Debug\BUS.pdb
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\bin\Debug\BUS.dll
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\bin\Debug\BUS.pdb
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\bin\Debug\DAL.dll
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\bin\Debug\DAL.pdb
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\obj\Debug\BUS.dll
+C:\Users\hungp\Desktop\c#\quanlycongviec\demonet\demonet\BUS\obj\Debug\BUS.pdb
